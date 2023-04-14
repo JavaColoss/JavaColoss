@@ -1,3 +1,3 @@
-- 🔭 I’m currently working on study project in Harvex Robo as java developer. In this project we develop site for shared content watching
-- 🌱 I’m currently learning Java and Python
+- 🔭 I’m currently working as SQL developer
+- 🌱 I’m currently learning SQL and Python
 - 📫 How to reach me: Telegram @colossaltech
